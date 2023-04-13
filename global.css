@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-tamil-sangam-mn: "Tamil Sangam MN";
+
+  /* font sizes */
+  --font-size-mid: 17px;
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+  --font-size-47xl-7: 66.7px;
+  --font-size-smi-3: 12.3px;
+  --font-size-26xl-5: 45.5px;
+
+  /* Colors */
+  --color-gray: #0a0a0a;
+  --color-white: #fff;
+  --color-darkslategray-100: #484848;
+  --color-darkslategray-200: #363636;
+  --color-darkorchid-100: #9226b4;
+
+  /* Gaps */
+  --gap-8xl: 27px;
+
+  /* border radiuses */
+  --br-9xs-8: 3.8px;
+  --br-10xs-6: 2.6px;
+}

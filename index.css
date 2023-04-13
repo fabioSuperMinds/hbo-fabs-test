@@ -1,0 +1,434 @@
+.frame-child {
+  align-self: stretch;
+  position: relative;
+  border-top: 10px solid #9026b6;
+  box-sizing: border-box;
+  height: 10px;
+  flex-shrink: 0;
+}
+.get-hbo-max,
+.months {
+  font-family: var(--font-tamil-sangam-mn);
+  color: var(--color-white);
+}
+.months {
+  font-weight: 500;
+  color: var(--color-darkorchid-100);
+}
+.get-hbo-max-for-12-months {
+  margin-block-start: 0;
+  margin-block-end: 2.97px;
+}
+.price-for-you {
+  margin: 0;
+}
+.get-hbo-max-container,
+.save-98-with {
+  align-self: stretch;
+  position: relative;
+  line-height: 55px;
+}
+.save-98-with {
+  font-size: 22px;
+  line-height: 18.54px;
+  font-weight: 500;
+}
+.get-hbo-max-for-12-months-pric-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 10px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 14px;
+  text-align: center;
+  font-family: var(--font-tamil-sangam-mn);
+}
+.this-offer-expires {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  line-height: 12.64px;
+  display: inline-block;
+  width: 122.7px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 2.58px;
+  background-color: var(--color-darkslategray-100);
+  width: 70.31px;
+  height: 65.66px;
+}
+.div {
+  position: absolute;
+  top: 7.75px;
+  left: 8.79px;
+  line-height: 28.64px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 53.25px;
+  height: 50.66px;
+}
+.rectangle-group,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70.31px;
+  height: 65.66px;
+}
+.rectangle-group {
+  left: 83.85px;
+}
+.minutes,
+.seconds {
+  position: absolute;
+  top: 72.38px;
+  left: 10.22px;
+  font-size: 12.27px;
+  line-height: 12.92px;
+  text-align: left;
+  display: inline-block;
+  width: 49.76px;
+}
+.seconds {
+  left: 91.34px;
+  width: 55.22px;
+}
+.group-parent {
+  position: absolute;
+  top: 19.64px;
+  left: 0;
+  width: 154.15px;
+  height: 85.38px;
+  text-align: center;
+  font-size: 45.49px;
+}
+.this-offer-expires-in-parent {
+  position: relative;
+  width: 154.15px;
+  height: 105.03px;
+  flex-shrink: 0;
+  display: none;
+  font-size: 10.91px;
+}
+.this-offer-expires1 {
+  position: relative;
+  line-height: 18.54px;
+  display: inline-block;
+  width: 180px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 3.79px;
+  background-color: var(--color-darkslategray-100);
+  width: 103.14px;
+  height: 96.32px;
+}
+.div2 {
+  position: absolute;
+  top: 11.38px;
+  left: 12.89px;
+  line-height: 42.01px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 78.11px;
+  height: 74.32px;
+}
+.group-div,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 103.14px;
+  height: 96.32px;
+}
+.group-div {
+  left: 123px;
+}
+.minutes1,
+.seconds1 {
+  position: absolute;
+  top: 106.18px;
+  left: 15px;
+  font-size: var(--font-size-lg);
+  line-height: 18.96px;
+  text-align: left;
+  display: inline-block;
+  width: 73px;
+}
+.seconds1 {
+  left: 134px;
+  width: 81px;
+}
+.group-container {
+  position: relative;
+  width: 226.14px;
+  height: 125.18px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 66.74px;
+}
+.frame-parent,
+.this-offer-expires-in-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.this-offer-expires-in-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 16px;
+}
+.frame-parent {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-item {
+  align-self: stretch;
+  position: relative;
+  border-top: 10px solid var(--color-darkorchid-100);
+  box-sizing: border-box;
+  height: 10px;
+  flex-shrink: 0;
+}
+.line-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 40px;
+}
+.wesite {
+  align-self: stretch;
+  background-color: var(--color-gray);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hbotop-1-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hbotop-1-wrapper {
+  align-self: stretch;
+  position: relative;
+  height: auto;
+  flex-shrink: 0;
+  aspect-ratio: 3.2;
+}
+.screenshot-2023-03-31-at-1251 {
+  position: absolute;
+  top: 197px;
+  left: 0;
+  width: 320px;
+  height: 72px;
+  object-fit: cover;
+}
+.stream-simultaneously {
+  position: absolute;
+  top: 0;
+  left: 33px;
+  letter-spacing: 0.02em;
+  line-height: 18.54px;
+}
+.line-div {
+  position: absolute;
+  top: 39px;
+  left: 17px;
+  border-top: 2px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 286px;
+  height: 2px;
+}
+.stream-on-3 {
+  position: absolute;
+  top: 52px;
+  left: 15px;
+  font-size: var(--font-size-mid);
+  line-height: 22px;
+  text-align: center;
+  display: inline-block;
+  width: 290px;
+}
+.screenshot-2023-03-31-at-1251-parent {
+  position: relative;
+  width: 320px;
+  height: 269px;
+  flex-shrink: 0;
+  display: none;
+}
+.stream-simultaneously1 {
+  letter-spacing: 0.02em;
+  line-height: 18.54px;
+}
+.frame-inner,
+.stream-on-31,
+.stream-simultaneously1 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-inner {
+  border-top: 2px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  height: 2px;
+  flex-shrink: 0;
+}
+.stream-on-31 {
+  font-size: 21px;
+  line-height: 28px;
+}
+.stream-simultaneously-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 26px;
+}
+.screenshot-2023-03-31-at-12511 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 697px;
+  height: 159px;
+  object-fit: cover;
+}
+.screenshot-2023-03-31-at-1251-wrapper {
+  position: relative;
+  width: 697px;
+  height: 159px;
+  flex-shrink: 0;
+}
+.frame-div,
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+}
+.frame-group {
+  text-align: center;
+  font-size: 35px;
+}
+.frame-div {
+  background-color: var(--color-gray);
+  overflow: hidden;
+  padding: 57px 104px;
+  font-size: var(--font-size-5xl);
+}
+.titles-1-icon {
+  position: absolute;
+  height: 100.56%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -0.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.titles-1-wrapper {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-white);
+  height: Auto;
+  flex-shrink: 0;
+  overflow: hidden;
+  aspect-ratio: 4;
+}
+.wesite-parent {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: 48px;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1200px) {
+  .screenshot-2023-03-31-at-1251-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 960px) {
+  .get-hbo-max-container {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .save-98-with {
+    font-size: 20px;
+  }
+  .screenshot-2023-03-31-at-1251-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 420px) {
+  .get-hbo-max-container {
+    font-size: var(--font-size-lg);
+    line-height: 26px;
+  }
+  .save-98-with {
+    font-size: 14px;
+  }
+  .get-hbo-max-for-12-months-pric-parent {
+    flex: unset;
+    align-self: stretch;
+  }
+  .this-offer-expires-in-parent {
+    display: flex;
+  }
+  .this-offer-expires-in-group {
+    display: none;
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame-parent {
+    flex-direction: column;
+  }
+  .wesite {
+    flex-direction: row;
+  }
+  .screenshot-2023-03-31-at-1251-parent {
+    display: flex;
+  }
+  .stream-simultaneously1 {
+    font-size: var(--font-size-5xl);
+  }
+  .stream-on-31 {
+    font-size: var(--font-size-mid);
+  }
+  .frame-group {
+    display: none;
+  }
+}
